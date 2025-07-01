@@ -30,8 +30,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohemedameen&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohemedameen&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohemed-Ameen&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohemed-Ameen&theme=tokyonight" width="48%" />
 </p>
 
 ---
