@@ -1,62 +1,76 @@
-<!-- GitHub Profile README for Mohemed Ameen -->
+<h1 align="center">Hey there 👋, I'm Mohemed Ameen</h1>
 
-<h1 align="center">Hey 👋, I'm Mohemed Ameen</h1>
-<h3 align="center">B.Sc Computer Science Graduate | MERN Stack Developer in Training</h3>
+<p align="center">
+  🎓 B.Sc Computer Science Graduate (2025) <br/>
+  💻 MERN Stack Developer in training at KASE, Trivandrum <br/>
+  🔭 Passionate about building full-stack web applications
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **B.Sc Computer Science Graduate** (2025) – *National College, Trivandrum*
-- 💻 Currently pursuing **Full Stack Web Development (MERN)** at *KASE, Trivandrum*
-- 🌱 Focused on mastering full stack development through real-world projects
-- 📫 Reach me at: **mohemedameen121@gmail.com**
+- 🧑‍🎓 B.Sc Computer Science – National College, Trivandrum  
+- 🛠 Currently pursuing **Full Stack Development (MERN)** at **KASE, Trivandrum**  
+- 🚀 Actively building real-world projects to strengthen portfolio  
+- 📚 Exploring DevOps and cloud integration in the future
 
 ---
 
-### 🚀 Learning Roadmap
+### 🛠 Tech Stack
 
-- ✅ HTML, CSS & Responsive Design  
-- ✅ JavaScript (ES6+)  
-- 🟡 React.js (in progress)  
-- 🟡 Node.js & Express  
-- ⏳ MongoDB & RESTful APIs  
-- 📘 Git & GitHub for version control  
+**Languages**  
+`JavaScript` `HTML` `CSS` `Python` `C`  
 
-🧠 *Currently building practical mini-projects and exploring integration between frontend and backend.*
+**Frontend**  
+`React.js` `Bootstrap` `Tailwind CSS`
+
+**Backend & Database**  
+`Node.js` `Express.js` `MongoDB` `Mongoose`
+
+**Tools & Platforms**  
+`VS Code` `Git` `GitHub` `Postman` `MongoDB Compass`
 
 ---
 
-### 💼 Tech Stack
+### 📘 Projects
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+#### ✅ [MERN Stack To-Do App](https://github.com/your-username/mern-todo-app)
+A full-featured to-do list app with:
+- Task creation, editing, deletion
+- Completion status toggle
+- MongoDB integration with timestamps
+- Clean React UI
+
+> Status: ✅ Completed (local), 🔗 Deployment in progress
+
+---
+
+### 🚀 Currently Learning
+
+- 🔧 Advanced Express.js & Middleware
+- 🧠 Authentication with JWT
+- 🌐 Deployment with Vercel / Render
+- 📦 State Management using Redux
+
+---
+
+### 📫 Connect With Me
+
+- 📧 Email: [mohemedameen121@gmail.com](mailto:mohemedameen121@gmail.com)
+- 💼 LinkedIn: *(Add link if available)*
+- 📷 Instagram: *(Add if you want — optional)*
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohemed-Ameen&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohemed-Ameen&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="Mohemed's GitHub Stats" />
 </p>
 
 ---
 
-### 🌐 Connect With Me
+### ✨ Fun Fact
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohemedameen121@gmail.com)
-<!-- Optional Instagram -->
-<!-- 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME) 
--->
-
----
-
-> *“Consistency and passion are the keys to mastery.”* 🔐
+> I believe in "learning by building" — every line of code adds confidence. 🚀  
