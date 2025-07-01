@@ -64,12 +64,12 @@ A full-stack task manager app built using the MERN stack.
 
 ---
 
-## 📫 Contact Me
+## 📬 Contact Me
 
-- 📧 Email: [mohemedameen121@gmail.com](mailto:mohemedameen121@gmail.com)
-- 🌐 Portfolio: *(Coming Soon)*  
-<!-- - 🔗 LinkedIn: https://linkedin.com/in/your-profile -->  
-<!-- - 📷 Instagram: https://instagram.com/your-handle -->
+You can reach me at:
+
+- 📧 [mohemedameen121@gmail.com](mailto:mohemedameen121@gmail.com)
+- 📱 +91 81368 50304
 
 ---
 
