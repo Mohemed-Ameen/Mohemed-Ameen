@@ -73,20 +73,20 @@ A full-stack task manager app built using the MERN stack.
 
 ---
 
+---
 
 ## 📊 GitHub Stats
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=mohemedameen&show_icons=true&theme=default&hide_border=false&count_private=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=mohemedameen&theme=default&hide_border=false" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohemed-Ameen&show_icons=true&theme=default&hide_border=false&count_private=true" width="48%" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohemed-Ameen&theme=default&hide_border=false" width="48%" />
 
   <br />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohemedameen&layout=compact&theme=default&hide_border=false" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohemed-Ameen&layout=compact&theme=default&hide_border=false" width="60%" />
 
-</div>
----
 
 ## 💬 Quote I Believe In
 
