@@ -1,7 +1,7 @@
 <!-- GitHub Profile README for Mohemed Ameen -->
 
 <h1 align="center">Hey 👋, I'm Mohemed Ameen</h1>
-<h3 align="center">🎓 B.Sc Computer Science Graduate | MERN Stack Developer in Training</h3>
+<h3 align="center">🎓 B.Sc Computer Science Graduate | MERN Stack Developer</h3>
 
 ---
 
