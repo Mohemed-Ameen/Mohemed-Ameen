@@ -1,76 +1,83 @@
-<h1 align="center">Hey there 👋, I'm Mohemed Ameen</h1>
+# 👋 Hey, I’m Mohemed Ameen
 
-<p align="center">
-  🎓 B.Sc Computer Science Graduate (2025) <br/>
-  💻 MERN Stack Developer in training at KASE, Trivandrum <br/>
-  🔭 Passionate about building full-stack web applications
-</p>
+🎓 **B.Sc. Computer Science Graduate** (2025) — *National College, Trivandrum*  
+💻 **Full Stack Web Developer (MERN Stack)** — currently training at **KASE, Trivandrum**  
+📍 Based in Kerala, India | 🌱 Lifelong Learner | ⚡ Code. Build. Repeat.
 
 ---
 
-### 👨‍💻 About Me
+## 🧑‍💻 About Me
 
-- 🧑‍🎓 B.Sc Computer Science – National College, Trivandrum  
-- 🛠 Currently pursuing **Full Stack Development (MERN)** at **KASE, Trivandrum**  
-- 🚀 Actively building real-world projects to strengthen portfolio  
-- 📚 Exploring DevOps and cloud integration in the future
+I’m a passionate and detail-oriented developer focused on building web applications using modern JavaScript technologies. Currently diving deep into the **MERN stack** to develop scalable and user-friendly solutions.  
+I'm enthusiastic about real-world project building, backend logic, and clean, responsive UI.
 
 ---
 
-### 🛠 Tech Stack
+## 🚀 Skills & Technologies
 
-**Languages**  
-`JavaScript` `HTML` `CSS` `Python` `C`  
+**Languages:**  
+`JavaScript (ES6+)` &nbsp; `HTML5` &nbsp; `CSS3` &nbsp; `Python` &nbsp; `C`
 
-**Frontend**  
-`React.js` `Bootstrap` `Tailwind CSS`
+**Frontend:**  
+`React.js` &nbsp; `Bootstrap` &nbsp; `Tailwind CSS`
 
-**Backend & Database**  
-`Node.js` `Express.js` `MongoDB` `Mongoose`
+**Backend & Database:**  
+`Node.js` &nbsp; `Express.js` &nbsp; `MongoDB` &nbsp; `Mongoose`
 
-**Tools & Platforms**  
-`VS Code` `Git` `GitHub` `Postman` `MongoDB Compass`
-
----
-
-### 📘 Projects
-
-#### ✅ [MERN Stack To-Do App](https://github.com/your-username/mern-todo-app)
-A full-featured to-do list app with:
-- Task creation, editing, deletion
-- Completion status toggle
-- MongoDB integration with timestamps
-- Clean React UI
-
-> Status: ✅ Completed (local), 🔗 Deployment in progress
+**Tools:**  
+`VS Code` &nbsp; `Git & GitHub` &nbsp; `Postman` &nbsp; `MongoDB Compass`
 
 ---
 
-### 🚀 Currently Learning
+## 🛠️ Projects
 
-- 🔧 Advanced Express.js & Middleware
-- 🧠 Authentication with JWT
-- 🌐 Deployment with Vercel / Render
-- 📦 State Management using Redux
+### 📌 [MERN Stack To-Do App](https://github.com/your-username/mern-todo-app)
+A full-stack task manager app built using the MERN stack.
+
+> **Features:**  
+> - Create, edit, delete tasks  
+> - Mark tasks as complete/incomplete  
+> - Store data in MongoDB with timestamps  
+> - Clean and interactive React frontend  
+> - Full RESTful API integration
+
+> **Status:** ✅ Functional | 🚀 Deployment soon
 
 ---
 
-### 📫 Connect With Me
+## 📚 Currently Learning
+
+- 🔐 Authentication with JWT & Cookies  
+- 🌐 Deployment using **Render** and **Vercel**  
+- 📦 Redux for state management  
+- 🧠 Clean architecture patterns in MERN apps
+
+---
+
+## 📫 Contact Me
 
 - 📧 Email: [mohemedameen121@gmail.com](mailto:mohemedameen121@gmail.com)
-- 💼 LinkedIn: *(Add link if available)*
-- 📷 Instagram: *(Add if you want — optional)*
+- 🌐 Portfolio: *(Coming Soon)*  
+<!-- - 🔗 LinkedIn: https://linkedin.com/in/your-profile -->  
+<!-- - 📷 Instagram: https://instagram.com/your-handle -->
 
 ---
 
-### 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" alt="Mohemed's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=default" width="48%" />
 </p>
 
 ---
 
-### ✨ Fun Fact
+## 💬 Quote I Believe In
 
-> I believe in "learning by building" — every line of code adds confidence. 🚀  
+> "Build projects. Break things. Fix them. Learn. Repeat."
+
+---
+
+## 🙌 Thank you for visiting my GitHub!
+
+Feel free to check out my repositories or connect via email. Let’s build something awesome together. 🚀
