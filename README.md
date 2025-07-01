@@ -1,28 +1,29 @@
 <!-- GitHub Profile README for Mohemed Ameen -->
 
 <h1 align="center">Hey 👋, I'm Mohemed Ameen</h1>
-<h3 align="center">🎓 B.Sc Computer Science Graduate | MERN Stack Developer</h3>
+<h3 align="center">B.Sc Computer Science Graduate | MERN Stack Developer in Training</h3>
 
 ---
 
-### 🧑‍🎓 About Me
+### 👨‍💻 About Me
 
-- 🎓 Pursuing **B.Sc in Computer Science** (2025) from *National College, Trivandrum*
-- 💻 Currently enrolled in **Full Stack MERN Development** program at *KASE, Trivandrum*
-- 🌱 Always learning new web technologies and tools
+- 🎓 **B.Sc Computer Science Graduate** (2025) – *National College, Trivandrum*
+- 💻 Currently pursuing **Full Stack Web Development (MERN)** at *KASE, Trivandrum*
+- 🌱 Focused on mastering full stack development through real-world projects
 - 📫 Reach me at: **mohemedameen121@gmail.com**
 
 ---
 
-### 📚 Learning Progress
+### 🚀 Learning Roadmap
 
-- ✅ HTML & CSS Basics  
-- ✅ JavaScript Fundamentals  
-- 🔄 React (in progress)  
-- 🔄 Node.js & Express  
-- ⏳ MongoDB and full MERN integration
+- ✅ HTML, CSS & Responsive Design  
+- ✅ JavaScript (ES6+)  
+- 🟡 React.js (in progress)  
+- 🟡 Node.js & Express  
+- ⏳ MongoDB & RESTful APIs  
+- 📘 Git & GitHub for version control  
 
-💬 I'm actively building and sharing projects soon. Connect with me to collaborate!
+🧠 *Currently building practical mini-projects and exploring integration between frontend and backend.*
 
 ---
 
@@ -39,7 +40,7 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohemed-Ameen&show_icons=true&theme=tokyonight" width="48%" />
@@ -51,7 +52,11 @@
 ### 🌐 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohemedameen121@gmail.com)
+<!-- Optional Instagram -->
+<!-- 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_USERNAME) 
+-->
 
 ---
 
-> “Consistency and passion are the keys to mastery.” 🔐
+> *“Consistency and passion are the keys to mastery.”* 🔐
