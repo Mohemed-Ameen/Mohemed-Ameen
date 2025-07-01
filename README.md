@@ -14,6 +14,18 @@
 
 ---
 
+### 📚 Learning Progress
+
+- ✅ HTML & CSS Basics  
+- ✅ JavaScript Fundamentals  
+- 🔄 React (in progress)  
+- 🔄 Node.js & Express  
+- ⏳ MongoDB and full MERN integration
+
+💬 I'm actively building and sharing projects soon. Connect with me to collaborate!
+
+---
+
 ### 💼 Tech Stack
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -36,18 +48,10 @@
 
 ---
 
-### 🚀 Projects
-
-- 🌐 **Portfolio Website** – *(Coming Soon)*  
-- 📝 **Notes App** – A React app for taking quick notes  
-- 📊 **Expense Tracker** – MERN-based app to manage your daily expenses
-
----
-
 ### 🌐 Connect With Me
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohemedameen121@gmail.com)
 
 ---
 
-> “Consistency and passion are the keys to mastery.” 🔐  
+> “Consistency and passion are the keys to mastery.” 🔐
