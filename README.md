@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋 Hi, I’m Mohemed Ameen
 
-<!--
-**Mohemed-Ameen/Mohemed-Ameen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **B.Sc Computer Science Graduate (2025)** – National College, Trivandrum  
+💻 Currently pursuing **MERN Stack Development** at KASE, Trivandrum  
+🌱 Passionate about full stack development, coding & learning new technologies  
+📫 Reach me at: **mohemedameen121@gmail.com**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack:
+- HTML, CSS, JavaScript  
+- MongoDB, Express.js, React, Node.js  
+- Git, GitHub
+
+---
+
+### 📈 GitHub Stats:
+![Mohemed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohemedameen&show_icons=true&theme=radical)
+
+---
+
+### 🌐 Connect with me:
+- [LinkedIn](#) *(Add your LinkedIn link here if you have one)*  
