@@ -1,7 +1,7 @@
 # 👋 Hey, I’m Mohemed Ameen
 
 🎓 **B.Sc. Computer Science Graduate** (2025) — *National College, Trivandrum*  
-💻 **Full Stack Web Developer (MERN Stack)** — currently training at **KASE, Trivandrum**  
+💻 **Full Stack Web Developer (MERN Stack)** — commpleted course at **KASE, Trivandrum**  
 📍 Based in Kerala, India | 🌱 Lifelong Learner | ⚡ Code. Build. Repeat.
 
 ---
